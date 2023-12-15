@@ -50,7 +50,7 @@ st.markdown("")
 
 
 ptlen = st.slider("กรุณาเลือกข้อมูล petal.length",0,10)
-ptwd = st.slider("กรุณาเลือกข้อมูล petal.width",0,10)
+ptwd = st.slider("กรุณาเลือกข้อมูล petal.width",0,10) 
 
 splen = st.number_input("กรุณาเลือกข้อมูล sepal.length")
 spwd = st.number_input("กรุณาเลือกข้อมูล sepal.width")
